@@ -1,3 +1,13 @@
+Hi 👋 My name is Sergey Demidov
+Future AI Dev
+My first degree is in system administration (I currently work in this field), and my second degree is in applied computer science. I graduated from university in 2023, but unfortunately, the skills I acquired there were not useful to me. Therefore, I am trying to restart and give myself a second chance in AI development.
+
+🌍  I'm based in Orel
+✉️  You can contact me at mr.svde@gmail.com
+🧠  I'm learning AI dev on python
+
+###Skills
+
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a>
 </p>
